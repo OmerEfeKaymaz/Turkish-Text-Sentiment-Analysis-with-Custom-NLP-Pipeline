@@ -20,7 +20,6 @@ This project presents a comprehensive Natural Language Processing (NLP) pipeline
 📦Turkish_Text_Sentiment_Analysis
  ┣ 📜 Turkish_Text_Sentiment_Analysis_with_Custom_NLP_Pipeline.ipynb
  ┣ 📄 README.md
- ┗ 📁 data/ (optional)
 ```
 
 ---
